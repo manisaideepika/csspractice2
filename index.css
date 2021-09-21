@@ -1,0 +1,90 @@
+.back{
+    background-image: url(https://image.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin: -8px 0px 0px -8px;
+    border: 6px groove springgreen;
+}
+
+.wholepage{
+    display: flex;
+    justify-content: center; 
+  
+}
+.class{
+    background-color: black;
+    border: 5px red solid;
+    color: white;
+    font-style: italic;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 30px;
+    padding: 2px;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.a{
+    height: 80px;
+    width: 400px;
+}
+.b{
+    height: 30px;
+    width: 400px;
+}
+.c{
+    height: 100px;
+    width: 400px;
+}
+.circle{
+    height: 320px;
+    width: 400px;
+    border: 6px gray solid;
+    border-radius: 5000px;
+    padding: 80px 0px 0px 0px;
+    text-align: center;
+    text-decoration: underline black;
+    background-color: lightgreen;
+    line-height: 50px;
+    margin: 350px 30px 30px 30px;
+}
+.reg{
+    border:6px dashed red ;
+    background-color: white;
+    text-align: center;
+    line-height: 25px;
+    margin: -700px 300px 30px 650px;
+}
+h2{
+    color: tomato;
+}
+label{
+    color: tomato;
+}
+input{
+    text-align: center;
+}
+.d{
+    margin: 0px 450px 0px 450px;
+    padding: 6px;
+    font-size: 20px;
+}
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ 
+}
+.s{
+    background-color: turquoise;
+    border: 2px solid green;
+    border-radius: 30px;
+    height: 250px;
+    width: 350px;
+    text-align: center;
+    margin: 30px;
+    color: rgb(1, 1, 49);
+}
+h1{
+    color: rgb(1, 1, 49);
+}
